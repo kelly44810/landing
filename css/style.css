@@ -1,0 +1,213 @@
+/* Sign in and start button */
+
+.signin {
+	font-family: segoe ui, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #241811;
+	border: 3px solid #241811;
+	border-radius: 30px;
+	padding: 8px;
+	height: 35px;
+	margin-top:120px;
+	margin-left: 200px;
+	margin-right:10px;
+}
+
+.start {
+	font-family: segoe ui, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #241811;
+	border: 3px solid #241811;
+	border-radius: 30px;
+	padding: 8px;
+	height: 35px;
+	margin-top:120px;
+}
+
+/* Uliber logo */
+header img {
+	max-height: 50px;
+	display: center;
+	margin-top: 90px;
+	margin-left:350px;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Main image and explore now button*/
+
+.main img {
+	max-width: 100%;
+	height: auto;
+}
+
+.main {
+	position: relative;
+	text-align: center;
+}
+
+.main h1 {
+	position: absolute;
+	top: 35%;
+	left: 45%;
+	transform: translate(-35%, -45%);
+	font-family: garamond, serif;
+	font-size: 7vmin;
+		color: #e8f5f4;
+		max-width: 450px;
+}
+
+.main h2 {
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-60%, -50%);
+	font-family: segoe ui, sans-serif;
+	font-size: 1vmin;
+	font-weight: bold;
+	border: 3px solid #241811;
+	border-radius: 30px;
+	padding: 15px;
+	background-color: white;
+		color: #241811;
+}
+
+/* This online library is */
+
+.intro {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.intro h1 {
+	font-family: garamond, serif;
+	font-size: 5vmin;
+	margin-top: 100px;
+}
+
+.pros {
+	display: flex;
+	margin-top: 20px;
+}
+
+/* Easy to use */
+
+.one {
+	max-width: 300px;
+	margin: 18px;
+	margin-left: 225px;
+}
+
+.one h1 {
+	font-family: garamond, serif;
+	font-size: 5vmin;
+	background: rgba(34, 98, 77, 0.5);
+	max-width: 200px;
+}
+
+.one p {
+	font-family: segoe ui, sans-serif;
+	font-size: 18px;
+}
+
+/* Worldwide */
+
+.two {
+	max-width: 300px;
+	margin: 18px;
+}
+
+.two h1 {
+	font-family: garamond, serif;
+	font-size: 5vmin;
+		background: rgba(34, 98, 77, 0.5);
+	max-width: 200px;
+}
+}
+
+.two p {
+	font-family: segoe ui, sans-serif;
+	font-size: 18px;
+}
+
+/* Completely free */
+
+.three {
+	max-width: 300px;
+	margin: 18px;
+}
+
+.three h1 {
+font-family: garamond, serif;
+	font-size: 5vmin;
+		background: rgba(34, 98, 77, 0.5);
+	max-width: 200px;
+}
+}
+
+.three p {
+	font-family: segoe ui, sans-serif;
+	font-size: 18px;
+}
+
+/* Explore worlds you've never seen before, start now */
+
+.call {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.call h1 {
+	font-family: garamond, serif;
+	font-size: 50px;
+	color: #241811;
+	max-width: 500px;
+	margin-top: 130px;
+	text-align: center;
+}
+
+.now {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin-bottom: 150px;
+}
+
+.now h2 {
+	font-family: segoe ui, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #241811;
+	border: 3px solid #241811;
+	border-radius: 30px;
+	padding: 8px;
+	height: 35px;
+	margin-top:60px;
+	text-align: center;
+	max-width: 100px;
+}
+
+.footer {
+	background: rgba(34, 98, 77, 0.7);
+	margin-bottom: -30px;
+	max-height: 200px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.footer p {
+	font-family: segoe ui, sans-serif;
+	color: #241811;
+	font-size: 14px;
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
